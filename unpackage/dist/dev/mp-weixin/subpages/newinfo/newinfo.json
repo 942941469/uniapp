@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "helang-blur": "/components/helang-blur/helang-blur",
+    "mp-html": "/uni_modules/mp-html/components/mp-html/mp-html",
+    "comment": "/components/comment"
+  }
+}

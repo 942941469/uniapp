@@ -1,0 +1,1 @@
+<block wx:if="{{loginState}}"><view class="goto-share data-v-2d726b91"><image class="share-img data-v-2d726b91" src="/static/carm.png" mode="aspectFit" data-event-opts="{{[['tap',[['gotoShare']]]]}}" catchtap="__e"></image></view></block>
